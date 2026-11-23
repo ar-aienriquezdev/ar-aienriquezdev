@@ -17,7 +17,7 @@ I'm a registered and licensed architect pursuing a second degree in **Informatio
 
 My professional experience includes leading lead-generation and research workflows as a **Senior Associate at Pareto.ai**, supporting investment research, prospect analysis, and executive reporting. At **UR Studio**, I produced architectural documentation and 3D visualizations for US-based clients; at **Pineapple VA Hub**, I created branded digital content and supported social media for a US-based legal professional.
 
-Today, my technical work spans **machine learning, ETL pipelines, web applications, data visualization, and software security**. I'm seeking an IT internship where I can contribute these skills while continuing to grow as a developer and data professional.
+Today, my technical work spans **machine learning, ETL pipelines, web applications, data visualization, and software security**.
 
 ## Tech Stack
 
