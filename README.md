@@ -17,18 +17,18 @@ I'm a registered and licensed architect pursuing a second degree in **Informatio
 
 My professional experience includes leading lead-generation and research workflows as a **Senior Associate at Pareto.ai**, supporting investment research, prospect analysis, and executive reporting. At **UR Studio**, I produced architectural documentation and 3D visualizations for US-based clients; at **Pineapple VA Hub**, I created branded digital content and supported social media for a US-based legal professional.
 
-Today, my technical work spans **machine learning, ETL pipelines, web applications, data visualization, and software security**. I'm seeking an IT internship where I can contribute these skills while continuing to grow as a developer and data professional.
+My technical work spans **relational database architecture, SQL data engineering, REST API development, machine learning, ETL pipelines, web applications, data visualization, and software security**. I focus on structured, maintainable solutions that connect technical implementation with practical business needs.
 
 ## Tech Stack
 
 **Programming & Web**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Wix](https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-006B75?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Wix](https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white)
 
 **Data, Machine Learning & Visualization**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Data Engineering & Tools**  
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Databases, Data Engineering & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured Projects
 
@@ -38,11 +38,23 @@ A responsive financial analytics web platform featuring validated Philippine Sto
 **Technologies:** Next.js, React, Python, LIR, ARIMA, LSTM.  
 🌐 [Live Website](https://pse-pulse.vercel.app/)
 
+### 🗃️ MotorPH Payroll Database — SQL Architecture & Data Integrity
+Designed and refined the relational database behind the MotorPH payroll system, organizing **26 tables** with foreign-key relationships, data integrity constraints, and three reporting views.  
+**My role:** Primary Database Designer / SQL Architecture Lead, focused on schema structure, consistency, validation, and production-minded data modeling.  
+**Technologies:** MySQL, SQL, relational modeling, foreign keys, CHECK constraints, views, database testing.  
+📁 [SQL Schema & Test Documentation](https://drive.google.com/drive/folders/1xIrMitc07bjy4ZmBcfEg9b-125kaGBCB?usp=sharing)
+
 ### 🛡️ MotorPH Payroll System — Java Development & Security
 A Java Swing/MySQL payroll application enhanced with authentication, role-based access control, secure data access, and auditability.  
 **My role:** Primary Developer & Project Coordinator; implemented major security enhancements and led testing and troubleshooting.  
 **Technologies:** Java, MySQL, JDBC, BCrypt, Maven, JUnit, TLS.  
 💻 [GitHub Repository](https://github.com/ar-aienriquezdev/MO-IT153-IAS2-S4101-Group8-MotorPHPayrollSystem)
+
+### 🔌 Connectly — Django REST API Development (IPT)
+A collaborative Django backend project exposing REST endpoints for users, posts, and comments, using serializers and relational data models for structured JSON responses.  
+**Demonstrated skills:** Python backend development, API routing, GET/POST request handling, serialization, validation, and database-backed web services.  
+**Technologies:** Python, Django, Django REST Framework, SQLite, REST APIs.  
+💻 [GitHub Repository](https://github.com/ar-aienriquezdev/connectly-django-rest-api)
 
 ### 📊 FinMark — Predictive Analytics & Customer Segmentation
 Machine learning analyses for 30-day purchase prediction, sales forecasting, and customer segmentation.  
