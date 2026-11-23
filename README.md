@@ -7,7 +7,7 @@
 **Licensed Architect | BS Information Technology (Data Analytics) Student**  
 **Data Analytics · Data Engineering · Software Development**
 
-[LinkedIn](https://www.linkedin.com/in/arenriquez/) · [GitHub](https://github.com/ar-aienriquezdev) · [Email](mailto:ar.abegailenriquez@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arenriquez/) · [GitHub](https://github.com/ar-aienriquezdev) · [Email](mailto:ar.abegailenriquez@gmail.com) · [Website Portfolio](https://abegail-enriquez-portfolio.vercel.app/)
 
 </div>
 
