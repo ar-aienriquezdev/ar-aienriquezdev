@@ -17,7 +17,7 @@ I'm a registered and licensed architect pursuing a second degree in **Informatio
 
 My professional experience includes leading lead-generation and research workflows as a **Senior Associate at Pareto.ai**, supporting investment research, prospect analysis, and executive reporting. At **UR Studio**, I produced architectural documentation and 3D visualizations for US-based clients; at **Pineapple VA Hub**, I created branded digital content and supported social media for a US-based legal professional.
 
-My technical work spans **relational database architecture, SQL data engineering, REST API development, machine learning, ETL pipelines, web applications, data visualization, and software security**. I focus on structured, maintainable solutions that connect technical implementation with practical business needs.
+Today, my technical work spans **relational database architecture, SQL data engineering, REST API development, machine learning, ETL pipelines, web applications, data visualization, and software security**. I focus on structured, maintainable solutions that connect technical implementation with practical business needs.
 
 ## Tech Stack
 
