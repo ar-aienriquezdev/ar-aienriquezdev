@@ -83,7 +83,7 @@ An interactive dashboard exploring AI's impact on IT job categories and salaries
 ## Additional Work
 
 - **LubiCola — Wix Website & Brand Identity** — Designed and built a website using Wix, with supporting logo, brand identity guidelines, mockups, and digital content. 🌐 [Live Website](https://lubicola90.wixsite.com/lubicola) · 🎨 [Branding & Design Portfolio](https://drive.google.com/drive/folders/1P6ZRbMotsKv0c197bRxIR7pZQ6SPfOw9?usp=sharing)
-- **[The Titan Method](https://github.com/kleinborre/web-sys-tech)** — Responsive fitness website; project management, UI/UX requirements, and web-development coordination.
+- **[The Titan Method](https://web-sys-tech-eight.vercel.app/)** — Responsive fitness website; project management, UI/UX requirements, and web-development coordination.
 - **FinMark Enterprise System Administration** — Collaborative Windows Server lab covering Active Directory, Group Policy, DNS, NTFS permissions, and security configuration. 📁 [Project Documentation & Evidence](https://drive.google.com/drive/folders/1obrqHLvAs0GB3D-IJOt85KbJuRmjKaOB?usp=sharing)
 
 > **Project note:** Several repositories document collaborative academic projects. Each project's documentation should credit the team and distinguish my individual contributions.
